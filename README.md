@@ -8,4 +8,5 @@ Vit royna at savna allar open-source loysnir sum hava tilknýti til føroyingar 
 Eitt stuttuligari og lættaru háttur at velja eitt føroyskt navn.
 
 Leinkja: https://www.navnabretti.com/
+
 Repo: https://github.com/johnbrowe/barnanavn
